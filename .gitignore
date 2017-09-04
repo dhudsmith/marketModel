@@ -1,3 +1,9 @@
+
+data/
+
+# ---------------------------------
+# GitHub automatic ignore for python projects:
+# ---------------------------------
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
